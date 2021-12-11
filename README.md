@@ -18,7 +18,7 @@
 - Bootstrap- CSS framework
 
 ## Usage
-- You can access the deployed application here: 
+- You can access the deployed application here: https://morning-waters-17688.herokuapp.com/
 
 
 ## Licensing
@@ -26,6 +26,6 @@ Licensed under [MIT license](LICENSE).
 
 ## Links
 - https://github.com/Chtanicala/Budget-Tracker (Repository)
-- (Website)
+- https://morning-waters-17688.herokuapp.com/ (Website)
 
 
